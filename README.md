@@ -35,7 +35,7 @@ func main() {
 }
 ```
 
-You may also wish to consult the package documentation in
+You may also want to consult the package documentation in
 [GoDoc](http://godoc.org/github.com/kchristidis/cmap).
 
 ## Contributing
