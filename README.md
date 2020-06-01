@@ -1,5 +1,6 @@
 # cmap
 
+[![DOI](https://zenodo.org/badge/159430285.svg)](https://zenodo.org/badge/latestdoi/159430285)
 [![GoDoc](https://godoc.org/github.com/kchristidis/cmap?status.svg)](https://godoc.org/github.com/kchristidis/cmap)
 [![Build Status](https://travis-ci.org/kchristidis/cmap.svg?branch=master)](https://travis-ci.org/kchristidis/cmap)
 
